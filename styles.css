@@ -1,0 +1,28 @@
+body{
+    background-image: URL(BG.png);
+    text-align: center;
+    font-family: "Montserrat", serif;
+    color: white;
+    font-size: 62.5%;
+}
+
+.logo{
+    display: block;
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 280px;
+    margin-bottom: 50px;
+    
+}
+
+#slogan {
+    display:block;
+    width: 40vw;
+    margin: 0 auto;
+    font-size: 2rem;
+}
+
+#launch {
+    font-size: 3rem;
+}
